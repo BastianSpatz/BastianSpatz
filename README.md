@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bastianspatz&label=Profile%20views&color=0e75b6&style=flat" alt="bastianspatz" /> </p>
 
-- 🔭 I’m currently working on my master thesis(https://github.com/BastianSpatz/Deep-Bayesian-Active-Learning-for-Covid-19)
+- 🔭 I’m currently working on my [master thesis](https://github.com/BastianSpatz/Deep-Bayesian-Active-Learning-for-Covid-19)
 
 - 📫 How to reach me **spatz.bastian@googlemail.com**
 
